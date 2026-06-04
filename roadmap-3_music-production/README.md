@@ -1,5 +1,7 @@
 # Roadmap #3: Music Production, Recording & Songwriting Mastery
 
+> 🛒 **Affiliate note:** Some links below are Amazon affiliate links — as an Amazon Associate I earn from qualifying purchases, at no extra cost to you. They help keep this roadmap free.
+
 ## 🎹 Ultimate Goal
 By the end of this roadmap, you will be able to:
 - Write compelling original songs with memorable melodies and meaningful lyrics
@@ -629,6 +631,12 @@ The software where you record, edit, mix, and master music. Think of it as your 
 - [ ] Second Microphone (for stereo recording)
 - [ ] Acoustic Treatment ($100-$300)
 - [ ] MIDI Keyboard ($100-$300)
+
+**🛒 Recommended Gear** *(affiliate — I may earn a small commission, at no cost to you)*
+- [Focusrite Scarlett 2i2](https://www.amazon.com/s?k=Focusrite%20Scarlett%202i2%20audio%20interface&tag=sharkfins-20) — The most popular home-studio interface.
+- [Audio-Technica AT2020](https://www.amazon.com/s?k=Audio-Technica%20AT2020%20condenser%20microphone&tag=sharkfins-20) — An affordable, reliable studio condenser.
+- [Audio-Technica ATH-M50x](https://www.amazon.com/s?k=Audio-Technica%20ATH-M50x%20headphones&tag=sharkfins-20) — Standard closed-back headphones for tracking.
+- [Yamaha HS5](https://www.amazon.com/s?k=Yamaha%20HS5%20studio%20monitor&tag=sharkfins-20) — Accurate monitors for honest mixing decisions.
 
 ---
 

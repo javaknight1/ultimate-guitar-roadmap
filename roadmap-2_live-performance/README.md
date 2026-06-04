@@ -1,5 +1,7 @@
 # Roadmap #2: Live Performance Career Mastery
 
+> 🛒 **Affiliate note:** Some links below are Amazon affiliate links — as an Amazon Associate I earn from qualifying purchases, at no extra cost to you. They help keep this roadmap free.
+
 ## 🎤 Ultimate Goal
 By the end of this roadmap, you will be able to:
 - Book and perform paid gigs consistently (2-4 times per month minimum)
@@ -501,6 +503,11 @@ During soundcheck, ask the monitor engineer:
 - [ ] Flashlight (dark stages are common)
 - [ ] Allen wrenches / screwdriver (for minor guitar repairs)
 - [ ] Cable tester (if you have persistent signal issues)
+
+**🛒 Recommended Gear** *(affiliate — I may earn a small commission, at no cost to you)*
+- [Behringer Ultra-DI DI100](https://www.amazon.com/s?k=Behringer%20Ultra-DI%20DI100%20direct%20box&tag=sharkfins-20) — Gets your guitar into the PA cleanly — a live essential.
+- [Fender Instrument Cable](https://www.amazon.com/s?k=Fender%20instrument%20cable%20guitar&tag=sharkfins-20) — Reliable stage cables; carrying spares saves the night.
+- [Snark Clip-On Tuner](https://www.amazon.com/s?k=Snark%20clip-on%20guitar%20tuner&tag=sharkfins-20) — Tune silently on stage between songs.
 
 ---
 

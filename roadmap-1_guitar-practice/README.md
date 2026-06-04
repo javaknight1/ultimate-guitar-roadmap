@@ -1,5 +1,7 @@
 # Roadmap #1: Guitar Performance & Musicianship Mastery
 
+> 🛒 **Affiliate note:** Some links below are Amazon affiliate links — as an Amazon Associate I earn from qualifying purchases, at no extra cost to you. They help keep this roadmap free.
+
 ## 🎸 Ultimate Goal
 By the end of this roadmap, you will be able to:
 - Play and sing any song handed to you with confidence
@@ -117,6 +119,11 @@ E|--1--2--3--4--1--2--3--4--1--2--3--4--|
 **🎵 Songs to Practice With**
 - **Smoke on the Water — Deep Purple** — A slow, repetitive riff that builds fretting-hand stamina without strain.
 - **Seven Nation Army — The White Stripes** — A single-string line for clean finger placement and endurance.
+
+**🛒 Recommended Gear** *(affiliate — I may earn a small commission, at no cost to you)*
+- [Snark Clip-On Tuner](https://www.amazon.com/s?k=Snark%20clip-on%20guitar%20tuner&tag=sharkfins-20) — Accurate, cheap, and clips right to the headstock.
+- [Kyser Quick-Change Capo](https://www.amazon.com/s?k=Kyser%20Quick-Change%20guitar%20capo&tag=sharkfins-20) — You'll want it for the chord and transition work ahead.
+- [D'Addario Guitar Strings](https://www.amazon.com/s?k=D'Addario%20electric%20guitar%20strings&tag=sharkfins-20) — Keep a fresh set on hand — old strings kill tone and tuning.
 
 ---
 
