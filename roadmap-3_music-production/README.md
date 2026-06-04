@@ -889,6 +889,10 @@ You learned:
 
 **NEW SKILL ACQUIRED:** Fundamental understanding of audio and basic recording
 
+**🎵 Songs to Practice With**
+- **Wonderwall — Oasis** — Simple chords, one guitar and vocal — a perfect first cover to record.
+- **Wish You Were Here — Pink Floyd** — Sparse and acoustic; it exposes (and trains) your recording quality.
+
 ---
 
 ### Lesson 2: Understanding Your DAW - The Complete Interface
@@ -1278,6 +1282,10 @@ You now have:
 
 **NEW SKILL ACQUIRED:** DAW mastery and professional comping technique
 
+**🎵 Songs to Practice With**
+- **Hallelujah — Jeff Buckley** — An emotive vocal you'll want many takes of — ideal comping practice.
+- **The Scientist — Coldplay** — Simple piano and vocal; comp together the best-phrased lines.
+
 ---
 
 ### Lesson 3: The Science of EQ - Sculpting Frequency
@@ -1495,6 +1503,10 @@ Q is one of the most misunderstood EQ parameters.
 1. First, cut problematic frequencies
 2. Then, boost desirable frequencies (if needed)
 3. Less is more (3-4 dB changes are often enough)
+
+**🎵 Songs to Practice With**
+- **Aja — Steely Dan** — Surgical EQ separation across a dense mix — a reference for frequency clarity.
+- **Get Lucky — Daft Punk** — Every element sits in its own frequency band; study the spectral balance.
 
 ---
 
@@ -1909,6 +1921,10 @@ Now boost:
 
 **NEW SKILL ACQUIRED:** Professional EQ theory and application
 
+**🎵 Songs to Practice With**
+- **Hotel California — Eagles** — Layered guitars that demand careful EQ carving to keep each distinct.
+- **Creep — Radiohead** — Soft verse to loud chorus — practice EQ that holds both extremes.
+
 ---
 
 ### Lesson 4: Understanding Compression - Controlling Dynamics
@@ -2149,6 +2165,10 @@ Output
 - Example: 6 dB of gain reduction → Add ~6 dB makeup gain
 
 **Critical:** When comparing bypassed vs. compressed, make sure both are the SAME LOUDNESS. Humans perceive louder as "better," which is misleading.
+
+**🎵 Songs to Practice With**
+- **Billie Jean — Michael Jackson** — Famously controlled, punchy dynamics — a compression masterclass.
+- **Rolling in the Deep — Adele** — Vocal compression that stays upfront and consistent.
 
 ---
 
@@ -2588,6 +2608,10 @@ After the first compressor, add a second:
 
 **NEW SKILL ACQUIRED:** Professional compression theory and application
 
+**🎵 Songs to Practice With**
+- **With or Without You — U2** — A long dynamic build to tame and shape with compression.
+- **Zombie — The Cranberries** — Quiet/loud vocal and guitar dynamics to control across sections.
+
 ---
 
 ### Lesson 5: Effects - Reverb, Delay, and Modulation
@@ -2797,6 +2821,10 @@ Don't put reverb directly on the track. Instead:
 - **Mix:** 15-30% depending on style
 - **Why:** Adds size and cohesion to kit
 
+**🎵 Songs to Practice With**
+- **Riders on the Storm — The Doors** — Lush reverb creating a cavernous, rainy space.
+- **Enjoy the Silence — Depeche Mode** — Big reverberant production — study how reverb sets the mood.
+
 ---
 
 #### PART B: Delay - Creating Rhythm and Depth
@@ -2973,6 +3001,10 @@ Track → Delay (send 1) → Mix
 - Delay: 20-25% mix, dotted eighth, 30% feedback
 - Result: Vocal sits in a space with rhythmic interest
 
+**🎵 Songs to Practice With**
+- **Where the Streets Have No Name — U2** — The Edge's dotted-eighth delay defines the riff.
+- **Run Like Hell — Pink Floyd** — Rhythmic delay that creates the song's driving groove.
+
 ---
 
 #### PART C: Modulation Effects - Chorus, Flanger, Phaser
@@ -3074,6 +3106,10 @@ Modulation = effects that slightly vary pitch, time, or phase to create movement
 **How Much:**
 - Very subtle (you should barely notice it's there)
 - Adds harmonics and fullness without sounding distorted
+
+**🎵 Songs to Practice With**
+- **Come As You Are — Nirvana** — Chorus pedal shaping the main riff's watery tone.
+- **Message in a Bottle — The Police** — Chorus-laden add9 chords ringing across the neck.
 
 ---
 
@@ -3201,6 +3237,10 @@ Modulation = effects that slightly vary pitch, time, or phase to create movement
 - ✅ Mix sounds professional and cohesive
 
 **NEW SKILL ACQUIRED:** Professional effects processing (reverb, delay, modulation)
+
+**🎵 Songs to Practice With**
+- **Black Hole Sun — Soundgarden** — Modulation and reverb textures to recreate.
+- **Wicked Game — Chris Isaak** — A reverb-and-tremolo showcase to cover.
 
 ---
 
@@ -3391,6 +3431,10 @@ Intro → Verse 1 → Chorus → Verse 2 → Chorus → Chorus → Outro
 - Repeats chorus multiple times (memorability)
 - Short (replay value on streaming)
 
+**🎵 Songs to Practice With**
+- **Let It Be — The Beatles** — A textbook verse–chorus–bridge form to map out.
+- **Bohemian Rhapsody — Queen** — A study in unconventional, multi-section structure.
+
 ---
 
 #### PART B: Section Length and Pacing
@@ -3442,6 +3486,10 @@ Intro → Verse 1 → Chorus → Verse 2 → Chorus → Chorus → Outro
 **Your Goal:**
 - Aim for 3:00-4:00 minutes as you're starting out
 - Once you master structure, you can break rules
+
+**🎵 Songs to Practice With**
+- **Hey Jude — The Beatles** — Masterful pacing into a long, building outro.
+- **Stairway to Heaven — Led Zeppelin** — A gradual sectional build across lengthening sections.
 
 ---
 
@@ -3618,6 +3666,10 @@ In G: G - Em - C - D
 **Why it works:**
 - Smooth voice leading between chords
 - Familiar, nostalgic
+
+**🎵 Songs to Practice With**
+- **Smells Like Teen Spirit — Nirvana** — The quiet-verse/loud-chorus dynamic blueprint.
+- **Creep — Radiohead** — Restraint then explosion — energy flow in action.
 
 ---
 
@@ -3797,6 +3849,10 @@ Am - C - G - D (repeat 2 times)
 
 **NEW SKILL ACQUIRED:** Song structure and original composition
 
+**🎵 Songs to Practice With**
+- **Jessica — The Allman Brothers Band** — An instrumental with clear, modelable sections.
+- **YYZ — Rush** — Instrumental structure and dynamic shifts to reference.
+
 ---
 
 ### Lesson 7: Melody Writing - Creating Memorable Hooks
@@ -3847,6 +3903,10 @@ Am - C - G - D (repeat 2 times)
 
 **NEW SKILL ACQUIRED:** Melody composition
 
+**🎵 Songs to Practice With**
+- **Yesterday — The Beatles** — A melody study in contour and memorability.
+- **Someone Like You — Adele** — A strong, mostly stepwise melodic hook.
+
 ---
 
 ### Lesson 8: Lyric Writing - Telling Your Story
@@ -3876,6 +3936,10 @@ Am - C - G - D (repeat 2 times)
 
 **NEW SKILL ACQUIRED:** Lyric composition
 
+**🎵 Songs to Practice With**
+- **The Boxer — Simon & Garfunkel** — Vivid storytelling and concrete imagery.
+- **Hurt — Johnny Cash** — Economy of words carrying enormous emotional weight.
+
 ---
 
 ### Lesson 9: Vocal Production - Recording Professional Vocals
@@ -3903,6 +3967,10 @@ Am - C - G - D (repeat 2 times)
 - ✅ Harmonies support the lead without overpowering
 
 **NEW SKILL ACQUIRED:** Professional vocal production
+
+**🎵 Songs to Practice With**
+- **Skinny Love — Bon Iver** — An intimate close-mic vocal production to emulate.
+- **Make You Feel My Love — Adele** — A clean, upfront vocal recording reference.
 
 ---
 
@@ -3935,6 +4003,10 @@ Am - C - G - D (repeat 2 times)
 
 **NEW SKILL ACQUIRED:** Professional mixing
 
+**🎵 Songs to Practice With**
+- **Mr. Brightside — The Killers** — Clearly separated elements — a mixing balance reference.
+- **Seven Nation Army — The White Stripes** — A sparse mix; study how space and balance are used.
+
 ---
 
 ## 🎯 PHASE 3: MASTERING & RELEASE (Lessons 11-12)
@@ -3950,6 +4022,10 @@ Am - C - G - D (repeat 2 times)
 - Consistent with other songs
 - Polished and professional
 - Properly formatted for distribution
+
+**🎵 Songs to Practice With**
+- **Random Access Memories — Daft Punk** — A dynamic, musical master to reference for tone and loudness.
+- **25 — Adele** — A loud yet clean commercial master to A/B against.
 
 ---
 

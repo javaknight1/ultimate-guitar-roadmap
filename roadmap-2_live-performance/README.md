@@ -1119,6 +1119,10 @@ Write down what you'll say between each song.
 
 **NEW SKILL ACQUIRED:** Professional setlist creation and curation
 
+**🎵 Songs to Practice With**
+- **Mr. Brightside — The Killers** — A guaranteed high-energy crowd-pleaser — study why it lands as a peak or closer.
+- **Wagon Wheel — Old Crow Medicine Show** — A universal singalong to anchor the middle of a setlist.
+
 ---
 
 ## 🎯 PHASE 2: BOOKING AND MARKETING (Months 4-6)
@@ -2055,6 +2059,10 @@ If someone requests a song for someone else:
 - ✅ You handle mistakes/challenges without derailing the show
 
 **NEW SKILL ACQUIRED:** Professional performance delivery and stage management
+
+**🎵 Songs to Practice With**
+- **Free Fallin' — Tom Petty** — Simple enough to play on autopilot so you can focus entirely on the crowd.
+- **Don't Stop Believin' — Journey** — A guaranteed singalong for practicing how to command a room.
 
 ---
 

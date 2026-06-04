@@ -114,6 +114,10 @@ E|--1--2--3--4--1--2--3--4--1--2--3--4--|
 
 **NEW SKILL ACQUIRED:** Efficient finger independence and endurance foundation
 
+**🎵 Songs to Practice With**
+- **Smoke on the Water — Deep Purple** — A slow, repetitive riff that builds fretting-hand stamina without strain.
+- **Seven Nation Army — The White Stripes** — A single-string line for clean finger placement and endurance.
+
 ---
 
 #### LESSON 1.1B: Chord Transition Fluency
@@ -182,6 +186,10 @@ C → Am → F → G (I-vi-IV-V progression)
 - You should be able to chat with someone while playing this progression
 
 **NEW SKILL ACQUIRED:** Unconscious chord transitions through muscle memory automation
+
+**🎵 Songs to Practice With**
+- **Knockin' on Heaven's Door — Bob Dylan** — G–D–Am–C at a slow tempo — endless smooth open-chord changes.
+- **Wonderwall — Oasis** — Classic open-chord movement to drill quick, clean transitions.
 
 ---
 
@@ -448,6 +456,10 @@ Notice: Only ONE note changed (E became Eb), but the entire mood shifted.
 
 **NEW SKILL ACQUIRED:** Interval recognition and chord construction theory - the foundation of all musicianship
 
+**🎵 Songs to Practice With**
+- **Twinkle Twinkle Little Star — Traditional** — Opens with a perfect fifth then a major sixth — sing the intervals.
+- **Somewhere Over the Rainbow — Judy Garland** — The opening octave leap is a permanent reference for that interval.
+
 ---
 
 ### Milestone 1.3: The Major Scale - The Mother of All Scales
@@ -636,6 +648,10 @@ Same song, different key, because you understand the Roman numeral system.
 
 **NEW SKILL ACQUIRED:** Complete major scale fluency and harmonic understanding
 
+**🎵 Songs to Practice With**
+- **Do-Re-Mi — Rodgers & Hammerstein** — Walks straight up the major scale, degree by degree.
+- **Let It Be — The Beatles** — Diatonic chords and melody built entirely from the major scale.
+
 ---
 
 ## 🎯 PHASE 2: TECHNICAL DEVELOPMENT (Months 4-6)
@@ -752,6 +768,10 @@ Goal: Clean at 140 BPM
 - No tension or fatigue after 5 minutes of picking exercises
 
 **NEW SKILL ACQUIRED:** Efficient picking mechanics for speed and precision
+
+**🎵 Songs to Practice With**
+- **Master of Puppets — Metallica** — Relentless down and alternate picking for picking-hand precision and speed.
+- **Highway Star — Deep Purple** — Fast alternate-picked runs in the solo to build clean speed.
 
 ---
 
@@ -898,6 +918,10 @@ This appears in songs by:
 - Combine techniques fluidly without conscious thought
 
 **NEW SKILL ACQUIRED:** Legato technique mastery for fluid, connected playing
+
+**🎵 Songs to Practice With**
+- **Nothing Else Matters — Metallica** — Expressive hammer-ons and pull-offs in the intro.
+- **Plush — Stone Temple Pilots** — Slides and legato phrasing at a forgiving tempo.
 
 ---
 
@@ -1158,6 +1182,10 @@ Pick a simple solo (suggestion: "Sunshine of Your Love" by Cream).
 
 **NEW SKILL ACQUIRED:** Improvisation fluency and ear training foundation
 
+**🎵 Songs to Practice With**
+- **Stairway to Heaven — Led Zeppelin** — A masterclass in minor-pentatonic phrasing in the solo.
+- **Sunshine of Your Love — Cream** — Pentatonic riff and solo to apply the scale in context.
+
 ---
 
 #### LESSON 2.2B: Bending, Vibrato, and Expression Techniques
@@ -1369,6 +1397,10 @@ E|--5b7r5--5--8~~~~--
 
 **NEW SKILL ACQUIRED:** Expression techniques for emotionally impactful playing
 
+**🎵 Songs to Practice With**
+- **Since I've Been Loving You — Led Zeppelin** — Emotive bends and wide vibrato across the fretboard.
+- **Little Wing — Jimi Hendrix** — Vocal-like bending and expression woven into the rhythm.
+
 ---
 
 ## 🎯 PHASE 3: INTEGRATION & PERFORMANCE (Months 7-9)
@@ -1553,6 +1585,10 @@ If you struggle with high notes, you need to train your vocal range.
 
 **NEW SKILL ACQUIRED:** Singing and playing guitar simultaneously with confidence
 
+**🎵 Songs to Practice With**
+- **Wonderwall — Oasis** — A steady strum under an independent vocal — the standard first sing-and-play.
+- **Fast Car — Tracy Chapman** — A repeating fingerpicked riff against a separate vocal line.
+
 ---
 
 ### Milestone 3.2: Advanced Music Theory - Modes, Chord Extensions, and Progressions
@@ -1673,6 +1709,10 @@ Notice how the same chord progression sounds completely different depending on t
 - Identify which mode a song is using by ear
 
 **NEW SKILL ACQUIRED:** Modal understanding and application for advanced improvisation
+
+**🎵 Songs to Practice With**
+- **Scarborough Fair — Simon & Garfunkel** — The quintessential Dorian sound to hear and play over.
+- **Sweet Home Alabama — Lynyrd Skynyrd** — A Mixolydian vamp — solo over it to feel the flat-7.
 
 ---
 
@@ -1912,6 +1952,10 @@ This creates smooth, professional-sounding progressions.
 
 **NEW SKILL ACQUIRED:** Chord extension theory and application for rich harmonic playing
 
+**🎵 Songs to Practice With**
+- **Wave — Antonio Carlos Jobim** — Lush 7th and 9th bossa-nova voicings throughout.
+- **Little Wing — Jimi Hendrix** — Extended chord voicings folded into rhythm playing.
+
 ---
 
 ## 🎯 PHASE 4: MASTERY & PERFORMANCE READINESS (Months 10-12)
@@ -2092,6 +2136,10 @@ By the end of this phase, you should be able to:
 - Transcribe a simple solo note-for-note
 
 **NEW SKILL ACQUIRED:** Playing by ear with professional-level proficiency
+
+**🎵 Songs to Practice With**
+- **Let It Be — The Beatles** — A simple diatonic melody and progression to transcribe by ear.
+- **Stand by Me — Ben E. King** — A clear bassline and melody for first by-ear transcription.
 
 ---
 
@@ -2471,6 +2519,10 @@ A|--7--------7-----|
 
 **NEW SKILL ACQUIRED:** Advanced shred techniques
 
+**🎵 Songs to Practice With**
+- **Eruption — Van Halen** — The definitive two-hand tapping étude.
+- **Crazy Train — Ozzy Osbourne** — Randy Rhoads' tapping licks in a musical context.
+
 ---
 
 ### Milestone 5.2: Stylistic Mastery - Genre-Specific Skills
@@ -2556,6 +2608,10 @@ E|--5--5--5--5--5--5--5--5--5--5--5--5--|
 ---
 
 *(Continue with similar deep dives for rock, country, and folk guitar)*
+
+**🎵 Songs to Practice With**
+- **The Thrill Is Gone — B.B. King** — Minor-blues phrasing and singing vibrato.
+- **Pride and Joy — Stevie Ray Vaughan** — A Texas shuffle blending blues rhythm and lead.
 
 ---
 
