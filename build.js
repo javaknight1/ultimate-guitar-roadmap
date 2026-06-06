@@ -53,7 +53,7 @@ function template(json) {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Ultimate Guitar Roadmap</title>
+<title>The Ultimate Guitar Masterclass</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -136,7 +136,7 @@ main{max-width:860px;width:100%;}
   <aside id="sidebar">
     <div class="brand">
       <span class="kicker">// practice · perform · produce</span>
-      <h1>The Ultimate<br>Guitar Roadmap</h1>
+      <h1>The Ultimate<br>Guitar Masterclass</h1>
       <p>three roadmaps · zero → stage-ready</p>
     </div>
     <div class="tabs" id="tabs"></div>
@@ -146,11 +146,11 @@ main{max-width:860px;width:100%;}
   <main>
     <div class="mobile-bar">
       <button class="menu-btn" id="menuBtn">☰ menu</button>
-      <span class="mtitle" id="mtitle">The Ultimate Guitar Roadmap</span>
+      <span class="mtitle" id="mtitle">The Ultimate Guitar Masterclass</span>
     </div>
     <div class="doc" id="doc"></div>
     <div class="footer">
-      Some links are Amazon affiliate links — as an Amazon Associate I earn from qualifying purchases, at no extra cost to you. · The Ultimate Guitar Roadmap
+      Some links are Amazon affiliate links — as an Amazon Associate I earn from qualifying purchases, at no extra cost to you. · The Ultimate Guitar Masterclass
     </div>
   </main>
 </div>

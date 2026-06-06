@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "ultimate-guitar-roadmap",
+  "name": "ultimate-guitar-masterclass",
   "compatibility_date": "2026-06-04",
   "observability": {
     "enabled": true
