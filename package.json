@@ -1,0 +1,6 @@
+{
+  "name": "ultimate-guitar-roadmap",
+  "private": true,
+  "scripts": { "build": "node build.js" },
+  "devDependencies": { "marked": "^4.3.0" }
+}
